@@ -1,2 +1,2 @@
 # -BayesianNetwork
- Bayesian Network is used to represents a set of variables and their conditional dependencies 
+ Bayesian Network is used to represent a set of variables and their conditional dependencies 
